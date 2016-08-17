@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+
+  <group d4:groupID="12500" id="1" restype="x-4DK#">
+    <trans-unit id="100">
+      <source>IC Commands</source>
+    </trans-unit>
+    <trans-unit d4:value="1" id="101">
+      <source>Use SSL</source>
+    </trans-unit>
+  </group>
+
+</xliff>
